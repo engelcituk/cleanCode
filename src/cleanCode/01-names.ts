@@ -28,7 +28,7 @@
     // Todo: Tarea
         
     // día de hoy - today
-    const currentDate = new Date();
+    const today = new Date();
     
     // días transcurridos - elapsed time in days
     const daysElapsed: number = 23;
@@ -43,7 +43,7 @@
     const lastName = 'Herrera';
 
     // días desde la última modificación - days since modification
-    const DaysSinceModification = 12;
+    const DaysSinceLastModification = 12;
     
     // cantidad máxima de clases por estudiante - max classes per student
     const maxClassesPerStudent = 6;
