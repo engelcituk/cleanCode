@@ -1,5 +1,5 @@
 import './style.css'
-
+import './cleanCode/04-homework'
 const app = document.querySelector<HTMLDivElement>('#app')!
 
 app.innerHTML = `
