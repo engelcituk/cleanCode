@@ -5,7 +5,8 @@ import './style.css'
 // import './cleanCode/07-tarea'
 // import './code-smells/02-hight-coupling'
 // import './solid/02-open-close-a'
-import './solid/03-liskov-a'
+// import './solid/03-liskov-a'
+import './solid/05-dependency-a'
 
 
 
