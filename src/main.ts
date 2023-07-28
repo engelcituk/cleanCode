@@ -4,7 +4,7 @@ import './style.css'
 // import './cleanCode/06-classes-c'
 // import './cleanCode/07-tarea'
 // import './code-smells/02-hight-coupling'
-import './solid/01-srp'
+import './solid/02-open-close-a'
 
 
 const app = document.querySelector<HTMLDivElement>('#app')!
