@@ -1,4 +1,6 @@
 
+import localPosts from '../data/local-database.json';
+
 export class LocalDataBaseService {
 
     constructor() {}
@@ -19,4 +21,14 @@ export class LocalDataBaseService {
             }]
     }
 
+}
+
+
+export class JsonDatabaseService {
+    
+    constructor() {}
+
+    async getPosts(){
+        return localPosts
+    }
 }
